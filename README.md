@@ -1,6 +1,6 @@
 # novel.it
 
-Este é um projeto Frontend com React, TypeScript e Tailwind CSS, desenvolvido para a Knex Empresa Júnior de Computação. Simula uma rede social para gerenciar posts.
+Este é um projeto Front-end com React, TypeScript e Tailwind CSS, desenvolvido para a Knex Empresa Júnior de Computação. Simula uma rede social para gerenciar posts.
 
 ## Funcionalidades Principais
 
